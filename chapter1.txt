@@ -1,0 +1,11 @@
+dsigiiisjfiskjndvjv ddkjjvnerjkgnj[33mcommit ed5c7d44c767ad2983bf22125440ca6fd57ff3e6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Vinamra <vinamragupta121@gmail.com>
+Date:   Fri Aug 4 22:47:55 2023 +0530
+
+    complete 2 and 3
+
+[33mcommit 6846c1ec47151e4c6976f78702864111716c00c8[m
+Author: Vinamra <vinamragupta121@gmail.com>
+Date:   Fri Aug 4 22:06:59 2023 +0530
+
+    chapter1.txt
